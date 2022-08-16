@@ -1,4 +1,4 @@
-# Proyecto-INT-ISPC
+# Proyecto-INT-ISPC    Integrante: Damián Marveggio
 Consigna:
 
 Codificar en Python un programa que contenga las siguientes condiciones:
